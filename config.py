@@ -20,3 +20,5 @@ colors = [
     , 'black'
     , 'red'
     , 'green']
+
+output_folder = '.\\data\\'
